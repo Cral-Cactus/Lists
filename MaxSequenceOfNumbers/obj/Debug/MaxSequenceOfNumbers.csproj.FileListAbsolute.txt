@@ -1,0 +1,8 @@
+D:\aaa\testt\Lists\MaxSequenceOfNumbers\bin\Debug\MaxSequenceOfNumbers.exe.config
+D:\aaa\testt\Lists\MaxSequenceOfNumbers\bin\Debug\MaxSequenceOfNumbers.exe
+D:\aaa\testt\Lists\MaxSequenceOfNumbers\bin\Debug\MaxSequenceOfNumbers.pdb
+D:\aaa\testt\Lists\MaxSequenceOfNumbers\obj\Debug\MaxSequenceOfNumbers.csproj.AssemblyReference.cache
+D:\aaa\testt\Lists\MaxSequenceOfNumbers\obj\Debug\MaxSequenceOfNumbers.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Lists\MaxSequenceOfNumbers\obj\Debug\MaxSequenceOfNumbers.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Lists\MaxSequenceOfNumbers\obj\Debug\MaxSequenceOfNumbers.exe
+D:\aaa\testt\Lists\MaxSequenceOfNumbers\obj\Debug\MaxSequenceOfNumbers.pdb

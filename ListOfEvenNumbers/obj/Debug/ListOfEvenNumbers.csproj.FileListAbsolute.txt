@@ -1,0 +1,8 @@
+D:\aaa\testt\Lists\ListOfEvenNumbers\bin\Debug\ListOfEvenNumbers.exe.config
+D:\aaa\testt\Lists\ListOfEvenNumbers\bin\Debug\ListOfEvenNumbers.exe
+D:\aaa\testt\Lists\ListOfEvenNumbers\bin\Debug\ListOfEvenNumbers.pdb
+D:\aaa\testt\Lists\ListOfEvenNumbers\obj\Debug\ListOfEvenNumbers.csproj.AssemblyReference.cache
+D:\aaa\testt\Lists\ListOfEvenNumbers\obj\Debug\ListOfEvenNumbers.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Lists\ListOfEvenNumbers\obj\Debug\ListOfEvenNumbers.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Lists\ListOfEvenNumbers\obj\Debug\ListOfEvenNumbers.exe
+D:\aaa\testt\Lists\ListOfEvenNumbers\obj\Debug\ListOfEvenNumbers.pdb

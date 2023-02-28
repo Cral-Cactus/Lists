@@ -1,0 +1,8 @@
+D:\aaa\testt\Lists\ListOfNamesV2\bin\Debug\ListOfNamesV2.exe.config
+D:\aaa\testt\Lists\ListOfNamesV2\bin\Debug\ListOfNamesV2.exe
+D:\aaa\testt\Lists\ListOfNamesV2\bin\Debug\ListOfNamesV2.pdb
+D:\aaa\testt\Lists\ListOfNamesV2\obj\Debug\ListOfNamesV2.csproj.AssemblyReference.cache
+D:\aaa\testt\Lists\ListOfNamesV2\obj\Debug\ListOfNamesV2.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Lists\ListOfNamesV2\obj\Debug\ListOfNamesV2.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Lists\ListOfNamesV2\obj\Debug\ListOfNamesV2.exe
+D:\aaa\testt\Lists\ListOfNamesV2\obj\Debug\ListOfNamesV2.pdb

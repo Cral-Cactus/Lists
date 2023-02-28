@@ -1,0 +1,8 @@
+D:\aaa\testt\Lists\ListOfExtremes\bin\Debug\ListOfExtremes.exe.config
+D:\aaa\testt\Lists\ListOfExtremes\bin\Debug\ListOfExtremes.exe
+D:\aaa\testt\Lists\ListOfExtremes\bin\Debug\ListOfExtremes.pdb
+D:\aaa\testt\Lists\ListOfExtremes\obj\Debug\ListOfExtremes.csproj.AssemblyReference.cache
+D:\aaa\testt\Lists\ListOfExtremes\obj\Debug\ListOfExtremes.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Lists\ListOfExtremes\obj\Debug\ListOfExtremes.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Lists\ListOfExtremes\obj\Debug\ListOfExtremes.exe
+D:\aaa\testt\Lists\ListOfExtremes\obj\Debug\ListOfExtremes.pdb

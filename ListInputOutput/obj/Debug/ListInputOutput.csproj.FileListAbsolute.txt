@@ -1,0 +1,8 @@
+D:\aaa\testt\Lists\ListInputOutput\bin\Debug\ListInputOutput.exe.config
+D:\aaa\testt\Lists\ListInputOutput\bin\Debug\ListInputOutput.exe
+D:\aaa\testt\Lists\ListInputOutput\bin\Debug\ListInputOutput.pdb
+D:\aaa\testt\Lists\ListInputOutput\obj\Debug\ListInputOutput.csproj.AssemblyReference.cache
+D:\aaa\testt\Lists\ListInputOutput\obj\Debug\ListInputOutput.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Lists\ListInputOutput\obj\Debug\ListInputOutput.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Lists\ListInputOutput\obj\Debug\ListInputOutput.exe
+D:\aaa\testt\Lists\ListInputOutput\obj\Debug\ListInputOutput.pdb

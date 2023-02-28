@@ -1,0 +1,8 @@
+D:\aaa\testt\Lists\InputListFrom1Line\obj\Debug\InputListFrom1Line.csproj.AssemblyReference.cache
+D:\aaa\testt\Lists\InputListFrom1Line\obj\Debug\InputListFrom1Line.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Lists\InputListFrom1Line\obj\Debug\InputListFrom1Line.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Lists\InputListFrom1Line\bin\Debug\InputListFrom1Line.exe.config
+D:\aaa\testt\Lists\InputListFrom1Line\bin\Debug\InputListFrom1Line.exe
+D:\aaa\testt\Lists\InputListFrom1Line\bin\Debug\InputListFrom1Line.pdb
+D:\aaa\testt\Lists\InputListFrom1Line\obj\Debug\InputListFrom1Line.exe
+D:\aaa\testt\Lists\InputListFrom1Line\obj\Debug\InputListFrom1Line.pdb

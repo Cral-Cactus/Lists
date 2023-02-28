@@ -1,0 +1,8 @@
+D:\aaa\testt\Lists\SumOfFlippedNumbers\bin\Debug\SumOfFlippedNumbers.exe.config
+D:\aaa\testt\Lists\SumOfFlippedNumbers\bin\Debug\SumOfFlippedNumbers.exe
+D:\aaa\testt\Lists\SumOfFlippedNumbers\bin\Debug\SumOfFlippedNumbers.pdb
+D:\aaa\testt\Lists\SumOfFlippedNumbers\obj\Debug\SumOfFlippedNumbers.csproj.AssemblyReference.cache
+D:\aaa\testt\Lists\SumOfFlippedNumbers\obj\Debug\SumOfFlippedNumbers.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Lists\SumOfFlippedNumbers\obj\Debug\SumOfFlippedNumbers.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Lists\SumOfFlippedNumbers\obj\Debug\SumOfFlippedNumbers.exe
+D:\aaa\testt\Lists\SumOfFlippedNumbers\obj\Debug\SumOfFlippedNumbers.pdb
